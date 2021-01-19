@@ -173,14 +173,9 @@ npm run start:dev
 
 </details>
 
-### 作者
-
-github： [edison](https://github.com/genaller)
 
 ### 如何部署
 
-[阿童木聊天室部署说明](./阿童木聊天室部署说明.md)
+[聊天室部署说明](./聊天室部署说明.md)
 
-### 更多细节
 
-[用 typescript 打造一个性能强悍的 web 聊天室](https://github.com/genaller/strong-frontend/blob/master/learnNode/nest/%E8%81%8A%E5%A4%A9%E5%AE%A4/%E7%94%A8typescript%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%E7%9A%84web%E8%81%8A%E5%A4%A9%E5%AE%A4.md)
