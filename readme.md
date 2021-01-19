@@ -1,22 +1,3 @@
-# 阿童木聊天室
-
-[![author](https://img.shields.io/badge/author-genaller-blue.svg)](https://github.com/genaller)
-[![author](https://img.shields.io/github/languages/top/genaller/genal-chat)](https://github.com/genaller/genal-chat)
-[![Node.js Version](https://img.shields.io/badge/node.js-10.16.3-blue.svg)](http://nodejs.org/download)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/genaller/genal-chat/blob/master/LICENSE)
-[![author](https://img.shields.io/github/stars/genaller/genal-chat?style=social)](https://github.com/genaller/genal-chat)
-
-> [码云](https://gitee.com/edison_dec/genal-chat)<br>
->
-> 在线地址[www.genal.fun](http://www.genal.fun)<br>
->
-> 有建议请到 issues 区
-
-### 项目简介
-
-😛 闲暇时间想做一个聊天室来巩固前端技能，于是在 2020 年 6 月 24 号就开始了阿童木聊天室的开发之旅。<br>
-😈 项目采用全 typescript 开发，这是为了以后的功能迭代打基础。当然，我本身也是很喜欢 typescript 的。<br>
-🧐 目前聊天室已经具备完整的聊天功能，今后会陆续开发更多酷炫的功能，喜欢的朋友给个 star 鼓励一下我吧!<br>
 
 ### 项目界面
 
